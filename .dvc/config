@@ -1,0 +1,6 @@
+[core]
+    remote = mondataremote
+['remote "mondataremoter"']
+    url = gdrive://drive.google.com/drive/folders/1jjFafJsUAJFXzSZl5x9SvFr33Qyaz01r
+['remote "mondataremote"']
+    url = gdrive://drive.google.com/drive/folders/1jjFafJsUAJFXzSZl5x9SvFr33Qyaz01r
